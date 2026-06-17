@@ -1,1 +1,12 @@
-In my game you can click the cookies and the cookies will go up you can also see prices of the mine grandma and factory and they update with it like when you buy them they become more expensive to win you get 100,000 cookies
+In my game you can click the big cookie and you will get more cookies.
+You can see how many cookies you have.
+You can also see prices of the mine, grandma, and factory.
+You can see the price and it will update when you buy somthing to be higher.
+To win you need 100,000 cookies.
+
+I used the timer node to update and check stuff regularly like how many cookie syou have and to update prices
+I used the animated sprite 2d to make the player
+For the imgs i used img ract 2d
+For the buttons i used the normal buttons under ui
+Also under ui the color rect 2d for the main colors
+and finnally for the words i used label
